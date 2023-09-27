@@ -7,30 +7,8 @@ I'm a passionate software engineer and devlopper informatique student based in M
 ## 🛠️ Technologies & Tools
 
 Here are some of the technologies and tools I'm most comfortable with at the moment :
- 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&color=informational&logo=python)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
-![](https://img.shields.io/badge/Code-NextJS-informational?style=flat&color=informational&logo=next.js)
-![](https://img.shields.io/badge/Code-TailwindCSS-informational?style=flat&color=informational&logo=tailwind-css)
-![](https://img.shields.io/badge/Code-Prisma-informational?style=flat&color=informational&logo=prisma)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&color=informational&logo=mongodb)
-![](https://img.shields.io/badge/Tool-Webpack-informational?style=flat&color=warning&logo=webpack)
-![](https://img.shields.io/badge/Tool-Jest-informational?style=flat&color=warning&logo=jest)
-![](https://img.shields.io/badge/Tool-SCSS-informational?style=flat&color=warning&logo=sass)
-![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&color=informational&logo=java)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&color=informational&logo=c%2B%2B)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&color=informational&logo=html5)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&color=informational&logo=css3)
-![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&color=informational&logo=node-dot-js)
-![](https://img.shields.io/badge/Tool-MongoDB-informational?style=flat&color=success&logo=mongodb)
-![](https://img.shields.io/badge/Tool-MySQL-informational?style=flat&color=success&logo=mysql)
-![](https://img.shields.io/badge/Tool-Git-informational?style=flat&color=success&logo=git)
-![](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&color=success&logo=github)
-![](https://img.shields.io/badge/Tool-Visual_Studio_Code-informational?style=flat&color=success&logo=visual-studio-code)
-![](https://img.shields.io/badge/Tool-IntelliJ_IDEA-informational?style=flat&color=success&logo=intellij-idea)
-
+ <h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-az-0678b7281/" height="30" width="40" /></a> 
