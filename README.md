@@ -38,6 +38,18 @@ Here are some of the technologies and tools I'm most comfortable with at the mom
 
 </center>
 
+## 📊 Statistics
+<center>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedazagaz&show_icons=true&theme=dark)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ahmedazagaz&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedazagaz&layout=compact&theme=dark)
+
+</center>
+
+
+
 ## 📚 Education
 
 - **Brevet de technicien supérieur (BTS) , Développement des Systèmes d’Information , Programmation / développeur informatique**\
