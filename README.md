@@ -17,15 +17,14 @@
 
 </center>
 
-## 📊 Statistics
-<center>
+### My GitHub Stats
+<p align="center">
+<a href="https://github.com/ahmedazagaz">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmedazagaz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmedazagaz&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedazagaz&show_icons=true&theme=dark)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ahmedazagaz&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedazagaz&layout=compact&theme=dark)
-
-</center>
 
 
 
