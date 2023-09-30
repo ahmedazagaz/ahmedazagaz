@@ -4,7 +4,7 @@
 
  I'm a passionate software engineer and devlopper informatique student based in Morocco. I love to code and I'm constantly learning new technologies to improve my skills. 
  
-<h1>-- Languages And Tools --</h1>h1>
+<h3> Languages And Tools </h3>
 
  Here are some of the technologies and tools I'm most comfortable with at the moment :
  
