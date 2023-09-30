@@ -48,6 +48,7 @@
 </p>
 
 <h3>Connect with me:</h3>
+
 <p>
   <a href="https://www.linkedin.com/in/ahmed-az-0678b7281/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -62,11 +63,11 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ahmedazagaz"><img src="https://github-readme-stats.vercel.app/api?username=escaper01&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=000000&icon_color=6366f1&bg_color=ffffff&hide_border=true&show_icons=true" alt="escaper01's GitHub stats" /></a>
+<a href="http://www.github.com/ahmedazagaz"><img src="https://github-readme-stats.vercel.app/api?username=escaper01&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=000000&icon_color=6366f1&bg_color=ffffff&hide_border=true&show_icons=true" alt="ahmedazagaz's GitHub stats" /></a>
 
 <a href="http://www.github.com/ahmedazagaz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=escaper01&stroke=000000&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=000000&currStreakLabel=3382ed&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
-<a href="https://github.com/ahmedazagaz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=escaper01&langs_count=10&title_color=3382ed&text_color=000000&icon_color=6366f1&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/ahmedazagaz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedazagaz&langs_count=10&title_color=3382ed&text_color=000000&icon_color=6366f1&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 
