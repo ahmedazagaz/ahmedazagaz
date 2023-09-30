@@ -14,9 +14,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-az-0678b7281/" height="30" width="40" /></a> 
 <a href="https://www.instagram.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ahmedazagaz/" height="30" width="40" /></a>
-<a href="https://twitter.com/AZ_AHMED1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AZ_AHMED1" height="30" width="40" /></a>
-
-
+<a href="https://www.twitter.com/AZ_AHMED1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" 
 </center>
 
 ### My GitHub Stats
