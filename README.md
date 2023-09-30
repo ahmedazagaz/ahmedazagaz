@@ -44,7 +44,6 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
- <img src="link_to_adobe_premiere_logo" alt="Adobe Premiere Pro" width="width_in_pixels" height="height_in_pixels">
 
 </p>
 
@@ -61,15 +60,13 @@
   </a>
 </p>
 
+<b>My GitHub Stats</b>
 
-### My GitHub Stats
-<p align="center">
-<a href="https://github.com/ahmedazagaz">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmedazagaz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmedazagaz&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<a href="http://www.github.com/ahmedazagaz"><img src="https://github-readme-stats.vercel.app/api?username=escaper01&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=000000&icon_color=6366f1&bg_color=ffffff&hide_border=true&show_icons=true" alt="escaper01's GitHub stats" /></a>
 
+<a href="http://www.github.com/ahmedazagaz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=escaper01&stroke=000000&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=000000&currStreakLabel=3382ed&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+
+<a href="https://github.com/ahmedazagaz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=escaper01&langs_count=10&title_color=3382ed&text_color=000000&icon_color=6366f1&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 
