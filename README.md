@@ -3,6 +3,9 @@
 <h3 align="center">Software Engineer Student at ALX SE Programme</h3>
 
  I'm a passionate software engineer and devlopper informatique student based in Morocco. I love to code and I'm constantly learning new technologies to improve my skills. 
+
+ * 🧠  I'm learning anything that would make from me a better version of myself
+ * 🤝  I'm open to collaborating on community service projects
  
 <h3>Languages And Tools</h3>
 
@@ -75,21 +78,20 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedazagaz&langs_count=10&title_color=3382ed&text_color=000000&icon_color=6366f1&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
 </a>
 
-
-
-
 ## 📚 Education
 
-- **Brevet de technicien supérieur (BTS) , Développement des Systèmes d’Information , Programmation / développeur informatique**\
+- **Brevet de technicien supérieur (BTS), Développement des Systèmes d’Information, Programmation / développeur informatique**\
   École AL BADISSI HOCEIMA\
   2022 - 2024
 
-- **Baccalauréat professionnel , Maintenance informatique et réseaux**\
+- **Baccalauréat professionnel, Maintenance informatique et réseaux**\
   École Institut Spécialisé de Technologie Appliquée NTIC\
   2021 - 2022
 
 ## 💼 Experience
 
 ### Alx Africa program.
+
 - **Software Engineering Student**\
-  mai 2023 - mai 2024
+  May 2023 - May 2024
+
