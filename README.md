@@ -56,7 +56,7 @@
   <a href="https://www.instagram.com/ahmedazagaz/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://www.twitter.com/AZ_AHMED1" target="_blank" rel="noreferrer">
+  <a href="https://www.twitter.com/Azcodee" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
 </p>
