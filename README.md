@@ -1,4 +1,4 @@
-<img align="center" width="80%" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif">
+<img align="center" width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif">
 <h1 align="center">👋 Hello Everyone, this is ahmedazagaz 😃</h1>
 <h3 align="center">Software Engineer Student at ALX SE Programme</h3>
 
