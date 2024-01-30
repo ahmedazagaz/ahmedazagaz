@@ -1,4 +1,4 @@
-
+<img src="/pc.jpg" border="0">
 <h1 align="center">👋 Hello Everyone, this is ahmedazagaz 😃</h1>
 <h3 align="center">Software Engineer Student at ALX SE Programme</h3>
 
