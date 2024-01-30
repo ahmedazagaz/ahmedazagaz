@@ -61,19 +61,10 @@
   </a>
 </p>
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/ahmedazagaz">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedazagaz&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=000000&icon_color=6366f1&bg_color=ffffff&hide_border=true&show_icons=true" alt="ahmedazagaz GitHub stats" />
-</a>
-
-<a href="http://www.github.com/ahmedazagaz">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedazagaz&stroke=000000&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=000000&currStreakLabel=3382ed&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" />
-</a>
-
-<a href="https://github.com/ahmedazagaz">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedazagaz&langs_count=10&title_color=3382ed&text_color=000000&icon_color=6366f1&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-</a>
+## GitHub Stats 📈
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedazagaz&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedazagaz&show_icons=true&theme=dracula)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ahmedazagaz&theme=dracula&hide_border=false)
 
 ## 📚 Education
 
