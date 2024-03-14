@@ -65,21 +65,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedazagaz&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedazagaz&show_icons=true&theme=dracula)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ahmedazagaz&theme=dracula&hide_border=false)
-
-## 📚 Education
-
-- **Brevet de technicien supérieur (BTS), Développement des Systèmes d’Information, Programmation / développeur informatique**\
-  École AL BADISSI HOCEIMA\
-  2022 - 2024
-
-- **Baccalauréat professionnel, Maintenance informatique et réseaux**\
-  École Institut Spécialisé de Technologie Appliquée NTIC\
-  2021 - 2022
-
-## 💼 Experience
-
-### Alx Africa program.
-
-- **Software Engineering Student**\
-  May 2023 - May 2024
-
