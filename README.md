@@ -44,8 +44,13 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
 
+### ⚙️ &nbsp;GitHub Analytics
 
-## GitHub Stats 📈
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedazagaz&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedazagaz&show_icons=true&theme=dracula)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ahmedazagaz&theme=dracula&hide_border=false)
+<p align="left"> 
+<a href="https://github.com/ahmedazagaz">
+  <img height="180em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmedazagaz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnasImloul&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+![](https://hit.yhype.me/github/profile?user_id=76872415)
