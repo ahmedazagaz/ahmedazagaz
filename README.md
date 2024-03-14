@@ -1,7 +1,7 @@
 <img src="/pc.png" border="0">
 <h1 align="center">👋 Hello Everyone, this is ahmedazagaz 👨🏻‍💻 </h1>
 <h3 align="center">Software Engineer Student at ALX SE Programme</h3>
-<h3 align="center">&  Développement des Systèmes d'Information Student at BTS - AL Hoceima </h3>
+<h4 align="center">&  Développement des Systèmes d'Information Student at BTS - AL Hoceima </h4>
 
 
 
