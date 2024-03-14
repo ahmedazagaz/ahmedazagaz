@@ -19,7 +19,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;\
-https://img.shields.io/badge/-vim-05122A?style=flat&logo=vim
+![GitHub](https://img.shields.io/badge/-vim-05122A?style=flat&logo=vim)
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![vb.net](https://img.shields.io/badge/-vb.net-05122A?style=flat&logo=ado.net)\
