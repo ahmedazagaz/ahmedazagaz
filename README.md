@@ -1,6 +1,9 @@
 <img src="/pc.png" border="0">
 <h1 align="center">👋 Hello Everyone, this is ahmedazagaz 👨🏻‍💻 </h1>
 <h3 align="center">Software Engineer Student at ALX SE Programme</h3>
+<h3 align="center">&  Développement des Systèmes d'Information Student at BTS - AL Hoceima </h3>
+
+
 
  I'm a passionate software engineer and devlopper informatique student based in Morocco. I love to code and I'm constantly learning new technologies to improve my skills. 
 
