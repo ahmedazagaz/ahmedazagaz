@@ -27,7 +27,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![php](https://img.shields.io/badge/-php-05122A?style=flat&logo=php)
-![Mysql]https://img.shields.io/badge/-mysql-05122A?style=flat&logo=Mysql)
+![Mysql](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=Mysql)
 
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
