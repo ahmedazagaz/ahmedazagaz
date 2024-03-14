@@ -3,7 +3,8 @@
 <h3 align="center">Software Engineer Student at ALX SE Programme</h3>
 
 
- I'm a passionate software engineer and devlopper informatique student based in Morocco. I love to code and I'm constantly learning new technologies to improve my skills. 
+ I'am a passionate software engineer at ALX Africa and a student in Développement des Systèmes d'Information at BTS Al Hoceima based in Morocco. I love to code and am constantly learning new technologies to improve my skills.
+ 
 
  * 🧠  I'm learning anything that would make from me a better version of myself
  * 🤝  I'm open to collaborating on community service projects
