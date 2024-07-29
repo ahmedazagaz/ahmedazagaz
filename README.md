@@ -3,8 +3,7 @@
 <h3 align="center">Software Engineer Student at ALX SE Programme</h3>
 
 
- I'am a passionate software engineer at ALX Africa and a student in Développement des Systèmes d'Information at BTS Al Hoceima based in Morocco. I love to code and am constantly learning new technologies to improve my skills.
- 
+I am a student engineer in software engineering alx africa, passionate about the field of IT. I am motivated, serious, and have a strong sense of responsibility, organization, and teamwork. Graduated with a Higher Technician Certificate (BTS) in IT development, I have acquired solid experience in programming, artificial intelligence and computer networks. I feel comfortable and competent in the field of software development.
 
  * 🧠  I'm learning anything that would make from me a better version of myself
  * 🤝  I'm open to collaborating on community service projects
