@@ -10,13 +10,7 @@
 
  * 🧠  I'm learning anything that would make from me a better version of myself
  * 🤝  I'm open to collaborating on community service projects
- 
-<h3>Languages And Tools</h3>
-
-<p>
-  Here are some of the technologies and tools I'm most comfortable with at the moment:
-</p>
-
+ * 🌱 I’m currently learning Generative AI
 
 <h2 align="left">I code with</h2>
 
