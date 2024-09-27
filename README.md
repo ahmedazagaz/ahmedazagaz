@@ -1,9 +1,12 @@
 <img src="/pc.png" border="0">
-<h1 align="center">👋 Hello Everyone, this is ahmedazagaz 👨🏻‍💻 </h1>
+<h1 align="left">Hey 👋, I'm ahmedazagaz 👨🏻‍💻</h1>
 <h3 align="center">Software Engineer Student at ALX SE Programme</h3>
 
+###
 
-I am a student engineer in software engineering alx africa, passionate about the field of IT. I am motivated, serious, and have a strong sense of responsibility, organization, and teamwork. Graduated with a Higher Technician Certificate (BTS) in IT development, I have acquired solid experience in programming, artificial intelligence and computer networks. I feel comfortable and competent in the field of software development.
+<p align="left">A passionate Software Engineer alx africa and web developer.I have a passion for building innovative solutions and constantly exploring emerging technologies. I'm always excited to take on new challenges and collaborate on inspiring projects!</p>
+
+###
 
  * 🧠  I'm learning anything that would make from me a better version of myself
  * 🤝  I'm open to collaborating on community service projects
@@ -15,25 +18,41 @@ I am a student engineer in software engineering alx africa, passionate about the
 </p>
 
 
-### 🛠 &nbsp;Tech Stack
+<h2 align="left">I code with</h2>
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)\
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;\
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![vb.net](https://img.shields.io/badge/-vb.net-05122A?style=flat&logo=ado.net)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; 
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![php](https://img.shields.io/badge/-php-05122A?style=flat&logo=php)
-![Mysql](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=Mysql)
+###
 
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-05122A?style=flat&logo=Adobe%20Premiere%20Pro)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+</div>
 
+###
 <h3>Connect with me:</h3>
 <p>
   <a href="https://www.linkedin.com/in/ahmed-az-0678b7281/" target="_blank">
