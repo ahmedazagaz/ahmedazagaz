@@ -1,6 +1,4 @@
 <h1 align="left">Hey 👋, I'm ahmedazagaz </h1>
-<h3 align="center">Software Engineer Student at ALX SE Programme</h3>
-
 ###
 
 <p align="left">A passionate Software Engineer alx africa and web developer.I have a passion for building innovative solutions and constantly exploring emerging technologies. I'm always excited to take on new challenges and collaborate on inspiring projects!</p>
