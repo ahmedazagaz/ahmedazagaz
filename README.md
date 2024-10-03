@@ -1,5 +1,4 @@
 <h1 align="left">Hey 👋, I'm ahmedazagaz </h1>
-###
 
 <p align="left">A passionate Software Engineer alx africa and web developer.I have a passion for building innovative solutions and constantly exploring emerging technologies. I'm always excited to take on new challenges and collaborate on inspiring projects!</p>
 
